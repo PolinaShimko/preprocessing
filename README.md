@@ -10,7 +10,8 @@ my_data.json    | Коллекция собранных данных
 user.json       | Сущность "Пользователь"
 public.json     | Сущность "Публикация"
 
-Installation
+# Installation
+
 You can install package jsonlite - a fast JSON parser and generator optimized for statistical data and the web:
 
 install.packages("jsonlite")
