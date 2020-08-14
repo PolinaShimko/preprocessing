@@ -37,7 +37,8 @@ The data was collected from the social network Twitter, which allows the user to
 Collected data about users of the social network Twitter, which includes information and descriptions of profiles, as well as one of the latest publications and information about it for each user.
 
 ### Data array static characteristics
-
+                                  | 
+----------------------------------|----------------------
 Number of elements                | 16597
 Total set size                    | 33.1 Mb
 Average item size                 | 2 Kb
