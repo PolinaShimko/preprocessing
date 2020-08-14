@@ -27,9 +27,9 @@ You can install preprocessing directly from R:
 
 ```sh
 install.packages("devtools")
-```
 
 devtools::install_github("PolinaShimko/preprocessing")
+```
 
 
 You can install package jsonlite - a fast JSON parser and generator optimized for statistical data and the web:
@@ -50,7 +50,8 @@ The data was collected from the social network Twitter, which allows the user to
 Collected data about users of the social network Twitter, which includes information and descriptions of profiles, as well as one of the latest publications and information about it for each user.
 
 ### Data array static characteristics
-                                  | 
+
+Characteristic                    | Value
 ----------------------------------|----------------------
 Number of elements                | 16597
 Total set size                    | 33.1 Mb
