@@ -1,7 +1,7 @@
 
 # Data preprocessing
 
-Collection of data from the social network Twitter and their preprocessing
+Collection of data from the social network Twitter and preprocessing data.
 
 Project goals:
 
