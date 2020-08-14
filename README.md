@@ -25,20 +25,22 @@ public.json     | Entity "Publication"
 
 You can install preprocessing directly from R:
 
+```sh
 install.packages("devtools")
+```
 
 devtools::install_github("PolinaShimko/preprocessing")
 
 
 You can install package jsonlite - a fast JSON parser and generator optimized for statistical data and the web:
-
+```sh
 install.packages("jsonlite")
-
+```
 
 Once the GERGM package is installed, you may access its functionality as you would any other package by calling:
-
+```sh
 library("jsonlite")
-
+```
 To read JSON content and convert it to R objects, use the function fromJSON.
 
 ## Data source description
