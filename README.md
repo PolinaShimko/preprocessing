@@ -1,8 +1,10 @@
-# preprocessing
 
-Data preprocessing
+# Data preprocessing
+
+Collection of data from the social network Twitter and their preprocessing
 
 Project goals:
+
   - data collection
   - cleaning data
   - data normalization
@@ -10,15 +12,16 @@ Project goals:
   - data encoding
 
 
-Название файла  | Содержание файла
+File name       | Content file
 ----------------|----------------------
-code.R          | Кодирование признаков
-data_tw.R       | Сбор данных
-my_data.json    | Коллекция собранных данных
-user.json       | Сущность "Пользователь"
-public.json     | Сущность "Публикация"
+report.pdf      | Work report
+code.R          | Feature coding
+data_tw.R       | Data collection
+my_data.json    | Collection of collected data
+user.json       | Entity "User"
+public.json     | Entity "Publication"
 
-# Installation
+## Installation
 
 You can install preprocessing directly from R:
 
@@ -38,7 +41,7 @@ library("jsonlite")
 
 To read JSON content and convert it to R objects, use the function fromJSON.
 
-# Data source description
+## Data source description
 
 The data was collected from the social network Twitter, which allows the user to post up to 280 characters. Users can also add personal information to their profile.
 
