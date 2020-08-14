@@ -2,6 +2,14 @@
 
 Data preprocessing
 
+Project goals:
+  - data collection
+  - cleaning data
+  - data normalization
+  - noise removal
+  - data encoding
+
+
 Название файла  | Содержание файла
 ----------------|----------------------
 code.R          | Кодирование признаков
